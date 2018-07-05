@@ -10,7 +10,7 @@ body{
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
-	background-image: url( /home/aishwarya/page/laady.jpg );
+	background-image: url( /home/aishwarya/page/laady.JPG);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
