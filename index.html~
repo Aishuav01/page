@@ -38,7 +38,7 @@
   <!-- Begin MailChimp Signup Form -->
 
 <div id="mc_embed_signup">
-<form action="https://startup.us18.list-manage.com/subscribe/post?u=1f30e30832479f6bace17c80a&amp;id=91e21432b6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" >
+<form action="https://startup.us18.list-manage.com/subscribe/post?u=1f30e30832479f6bace17c80a&amp;id=91e21432b6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="required" >
     <div id="mc_embed_signup_scroll">
  
   <div id="mce-responses" class="clear">
