@@ -10,7 +10,7 @@ body{
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
-	background-image: url( https://img00.deviantart.net/19ce/i/2007/196/4/e/background_by_chazline.jpg);
+	background-image: url( https://orig00.deviantart.net/deab/f/2008/016/b/f/purple_vector_by_ravenxcorpse.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
